@@ -1,3 +1,5 @@
 # cecs105
-CECS GitHub WorkShop
-for class
+CECS 105 GitHub WorkShop
+
+I have successfully edited my file.
+
